@@ -1,0 +1,1 @@
+The interference pattern from the double slit experiment is where photons become unstable, this is a result of the wave function collapse. When the beam is observed it follows linear paths. Measurement is where a polarising filter is used to block energy for observation.
