@@ -57,13 +57,6 @@ Our experimental investigation provides new insights into fundamental quantum ph
 
 The requirement for symmetry in observing path-finding effects points to the fundamental role of symmetry principles in quantum mechanics more broadly. Future work will focus on quantifying the limits of these effects and exploring potential applications in quantum information processing and quantum computing.
 
-### 6. References
-
-[To be completed with relevant literature]
-
 ### Figure 1
 [Experimental setup diagram as provided]
 
-### Acknowledgments
-
-This research was supported by [institution details]. Special thanks to colleagues who provided valuable feedback and technical assistance throughout this investigation.
